@@ -1,0 +1,64 @@
+Margherita:
+P (4 pedaços): R$ 24,00
+M (8 pedaços): R$ 36,00
+G (12 pedaços): R$ 48,00
+Carbonara:
+P (4 pedaços): R$ 28,00
+M (8 pedaços): R$ 42,00
+G (12 pedaços): R$ 56,00
+Havaiana:
+P (4 pedaços): R$ 26,00
+M (8 pedaços): R$ 39,00
+G (12 pedaços): R$ 52,00
+Frango com Catupiry:
+P (4 pedaços): R$ 30,00
+M (8 pedaços): R$ 45,00
+G (12 pedaços): R$ 60,00
+Vegetariana:
+P (4 pedaços): R$ 27,00
+M (8 pedaços): R$ 40,00
+G (12 pedaços): R$ 53,00
+Portuguesa:
+P (4 pedaços): R$ 29,00
+M (8 pedaços): R$ 43,00
+G (12 pedaços): R$ 58,00
+Mexicana:
+P (4 pedaços): R$ 31,00
+M (8 pedaços): R$ 46,00
+G (12 pedaços): R$ 61,00
+Bacon com Cheddar:
+P (4 pedaços): R$ 32,00
+M (8 pedaços): R$ 48,00
+G (12 pedaços): R$ 64,00
+Rúcula com Tomate Seco:
+P (4 pedaços): R$ 33,00
+M (8 pedaços): R$ 49,00
+G (12 pedaços): R$ 65,00
+Camarão:
+P (4 pedaços): R$ 35,00
+M (8 pedaços): R$ 52,00
+G (12 pedaços): R$ 69,00
+Toscana:
+P (4 pedaços): R$ 34,00
+M (8 pedaços): R$ 50,00
+G (12 pedaços): R$ 66,00
+Mussarela:
+P (4 pedaços): R$ 25,00
+M (8 pedaços): R$ 37,00
+G (12 pedaços): R$ 50,00
+Chocolate com Morango:
+P (4 pedaços): R$ 28,00
+M (8 pedaços): R$ 42,00
+G (12 pedaços): R$ 56,00
+Chocolate Branco com Morango:
+P (4 pedaços): R$ 29,00
+M (8 pedaços): R$ 43,00
+G (12 pedaços): R$ 58,00
+Doce de Leite com Banana:
+P (4 pedaços): R$ 30,00
+M (8 pedaços): R$ 45,00
+G (12 pedaços): R$ 60,00
+Chocolate com Coco Ralado:
+P (4 pedaços): R$ 28,00
+M (8 pedaços): R$ 41,00
+G (12 pedaços): R$ 55,00

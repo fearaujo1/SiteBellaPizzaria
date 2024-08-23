@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bella Pizzaria</title>
+  <link href="/css/pages/style_contato.css" rel="stylesheet">
+  <link rel="shortcut icon" href="/images/Logos/LogoPretaSemFundo.ico" type="image/x-icon">
+</head>
+<body>
+  <header id="header" class="navbar">
+    <div class="container">
+      <div class="navbar-content">
+        <!-- Logo da NavBar -->
+        <div class="navbar-logo">
+          <a href="index.html">
+            <img src="/images/Logos/LogoBrancaFundoPreto.png"   alt="Imagem-LogoPizzariaBella">
+          </a>
+        </div>
+        <!-- Navegação da NavBar-->
+        <nav class="navbar-menu">
+          <ul>
+            <li><a href="/pages-html/index.html" class="active">Home</a></li>
+            <li><a href="/pages-html/sobrenos.html">Sobre Nós</a></li>
+            <li><a href="/pages-html/cardapio.html">Cardápio</a></li>
+            <li><a href="/pages-html/cardapio.html">Contato</a></li>
+            </ul>
+          </nav>
+        </div>
+    </div>
+  </header>
+  <main>
+    <section class="section section-center">
+      <h2>Contato</h2>
+      <p class="subtitle">
+        Entre em contato conosco pelos seguintes meios:
+      </p>
+      <ul class="contact-list">
+        <li class="contact-item">
+          <img src="/images/Locais/3.png" alt="Localização">
+          <div class="contact-details">
+            <p>ROLÂNDIA</p>
+            <p>Telefone: (43) XXXX - XXXX</p>
+            <p>Redes Sociais: <a href="" target="_blank">@bellapizzaria</a></p>
+            <a href="https://api.whatsapp.com/send?phone=XXXX" target="_blank">
+              <img src="/images/Contato/Whatsapp.png" alt="Whatsapp">
+            </a>
+          </div>
+        </li>
+        <li class="contact-item">
+          <img src="/images/Locais/2.png" alt="Localização">
+          <div class="contact-details">
+            <p>CAMBÉ</p>
+            <p>Telefone: (43) XXXX - XXXX</p>
+            <p>Redes Sociais: <a href="" target="_blank">@bellapizzaria</a></p>
+            <a href="https://api.whatsapp.com/send?phone=XXXX" target="_blank">
+              <img src="/images/Contato/Whatsapp.png" alt="Whatsapp">
+            </a>
+          </div>
+        </li>
+        <li class="contact-item">
+          <img src="/images/Locais/1.png" alt="Localização">
+          <div class="contact-details">
+            <p>LONDRINA</p>
+            <p>Telefone: (43) XXXX - XXXX</p>
+            <p>Redes Sociais: <a href="a" target="_blank">@bellapizzaria</a></p>
+            <a href="https://api.whatsapp.com/send?phone=XXXX" target="_blank">
+              <img src="/images/Contato/Whatsapp.png" alt="Whatsapp">
+            </a>
+          </div>
+        </li>
+      </ul>
+    </section>
+    <section class="contact-form">
+      <h3>Envie uma Mensagem</h3>
+      <form action="send_message.php" method="post">
+        <div class="form-group">
+          <label for="name">Nome:</label>
+          <input type="text" id="name" name="name" required>
+        </div>
+        <div class="form-group">
+          <label for="email">E-mail:</label>
+          <input type="email" id="email" name="email" required>
+        </div>
+        <div class="form-group">
+          <label for="message">Mensagem:</label>
+          <textarea id="message" name="message" rows="5" required></textarea>
+        </div>
+        <button type="submit">Enviar</button>
+      </form>
+    </section>
+  </main>
+  
+
+  <!-- Início do Rodapé -->
+  <footer id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col col-offset-desktop-1 col-desktop-3">
+          <div class="rodape-texto">
+            <!-- Imagem e Texto do Rodapé-->
+            <p><a href=""><img src="/images/Logos/LogoBrancaFundoPreto.png" alt="Logo BellaPizzaria"></a></p>
+            <p>Obrigado por fazer parte da nossa história. Esperamos que continue a nos acompanhar e a desfrutar das delícias da Bella Pizzaria por muitos anos!</p>
+          </div>
+        </div>
+
+        <!-- Menu do Rodapé -->
+        <div class="col col-offset-desktop-1 col-desktop-2 col-2">
+          <h3>Menu</h3>
+          <nav>
+            <ul>
+              <li><a href="/pages-html/index.html" class="active">Home</a></li>
+              <li><a href="/pages-html/sobrenos.html">Sobre Nós</a></li>
+              <li><a href="/pages-html/cardapio.html">Cardápio</a></li>
+              <li><a href="/pages-html/contato.html">Contato</a></li>
+            </ul>
+          </nav>
+        </div>
+
+        <!-- Imagens de Facebook Twitter e YT no Rodapé -->
+        <div class="col col-desktop-3 social col-4">
+          <a href=""><img src="/images/social-facebook.png" alt="Facebook"></a>
+          <a href=""><img src="/images/social-twitter.png" alt="Twitter"></a>
+          <a href=""><img src="/images/social-youtube.png" alt="Youtube"></a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <div id="copyright">
+    &copy; BellaPizzaria - 2024 - Todos os direitos reservados
+  </div>
+</body>
+</html>
